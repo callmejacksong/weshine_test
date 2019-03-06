@@ -13,7 +13,17 @@ def get_gifs(mysql_conn,text):
     cursor.execute(sql)
     rs=cursor.fetchall()
     if len(rs)==0:
-        return "No result"
+        sql = "select guid from `weshine-text` where text like '%s';"%text
+        cursor.execute(sql)
+        rs = cursor.fetchall()
+        if len(rs)==0:
+
+            return "No result"
+        text_list = []
+        for r in rs:
+            text_list.append(r[0])
+        return text_list
+
     text_guid=rs[0][0]
     sql_2 = "select pic_guid from `weshine-text-pic` where text_guid='%s'"%text_guid
     cursor.execute(sql_2)
