@@ -13,21 +13,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/weshine_shenpeitu_test$app.coverage" NAME="app Coverage Results" MODIFIED="1551842287212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weshine_test$app.coverage" NAME="app Coverage Results" MODIFIED="1551859792498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="341">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#24#65#0" expanded="true" />
-                <marker date="1551857210731" expanded="true" signature="409:456" ph="select guid weshine" />
-                <marker date="1551857210731" expanded="true" signature="560:612" ph="select guid weshine-text" />
-                <marker date="1551857210731" expanded="true" signature="888:948" ph="select pic_g... wehsine" />
-                <marker date="1551857210731" expanded="true" signature="1216:1261" ph="select url f... weshine" />
-                <marker date="1551857210731" expanded="true" signature="1216:1275" ph="select url f... weshine" />
+                <marker date="1551859272998" expanded="true" signature="409:456" ph="select guid weshine" />
+                <marker date="1551859272998" expanded="true" signature="601:648" ph="select text weshine-text" />
+                <marker date="1551859272998" expanded="true" signature="601:649" ph="select text weshine-text" />
+                <marker date="1551859272998" expanded="true" signature="946:1006" ph="select pic_g... wehsine" />
+                <marker date="1551859272998" expanded="true" signature="1274:1319" ph="select url f... weshine" />
+                <marker date="1551859272998" expanded="true" signature="1274:1333" ph="select url f... weshine" />
               </folding>
             </state>
           </provider>
@@ -180,20 +182,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Redis Servers" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25431967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39976135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -216,11 +217,31 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/app.py</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -231,11 +252,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#24#65#0" expanded="true" />
-            <marker date="1551857210731" expanded="true" signature="409:456" ph="select guid weshine" />
-            <marker date="1551857210731" expanded="true" signature="560:612" ph="select guid weshine-text" />
-            <marker date="1551857210731" expanded="true" signature="888:948" ph="select pic_g... wehsine" />
-            <marker date="1551857210731" expanded="true" signature="1216:1261" ph="select url f... weshine" />
-            <marker date="1551857210731" expanded="true" signature="1216:1275" ph="select url f... weshine" />
+            <marker date="1551859272998" expanded="true" signature="409:456" ph="select guid weshine" />
+            <marker date="1551859272998" expanded="true" signature="601:648" ph="select text weshine-text" />
+            <marker date="1551859272998" expanded="true" signature="601:649" ph="select text weshine-text" />
+            <marker date="1551859272998" expanded="true" signature="946:1006" ph="select pic_g... wehsine" />
+            <marker date="1551859272998" expanded="true" signature="1274:1319" ph="select url f... weshine" />
+            <marker date="1551859272998" expanded="true" signature="1274:1333" ph="select url f... weshine" />
           </folding>
         </state>
       </provider>
@@ -279,15 +301,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="341">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#24#65#0" expanded="true" />
-            <marker date="1551857210731" expanded="true" signature="409:456" ph="select guid weshine" />
-            <marker date="1551857210731" expanded="true" signature="560:612" ph="select guid weshine-text" />
-            <marker date="1551857210731" expanded="true" signature="888:948" ph="select pic_g... wehsine" />
-            <marker date="1551857210731" expanded="true" signature="1216:1261" ph="select url f... weshine" />
-            <marker date="1551857210731" expanded="true" signature="1216:1275" ph="select url f... weshine" />
+            <marker date="1551859272998" expanded="true" signature="409:456" ph="select guid weshine" />
+            <marker date="1551859272998" expanded="true" signature="601:648" ph="select text weshine-text" />
+            <marker date="1551859272998" expanded="true" signature="601:649" ph="select text weshine-text" />
+            <marker date="1551859272998" expanded="true" signature="946:1006" ph="select pic_g... wehsine" />
+            <marker date="1551859272998" expanded="true" signature="1274:1319" ph="select url f... weshine" />
+            <marker date="1551859272998" expanded="true" signature="1274:1333" ph="select url f... weshine" />
           </folding>
         </state>
       </provider>
