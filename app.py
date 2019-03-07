@@ -36,7 +36,7 @@ def get_gifs(mysql_conn,text):
         pic_guid_list.append("'%s'"%pic[0])
 
     query_str = ",".join(pic_guid_list)
-    sql_3 = "select url from `weshine-pic` where guid in ("+query_str+");"
+    sql_3 = "select big_url from `weshine-pic` where guid in ("+query_str+");"
     print sql_3
     cursor.execute(sql_3)
     url_rets=cursor.fetchall()
