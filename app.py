@@ -64,3 +64,4 @@ def search_gifs():
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8848)
     print nihao
+    nihaoduoyou
